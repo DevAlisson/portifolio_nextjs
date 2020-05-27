@@ -34,7 +34,7 @@ const HomePage = () => (
           <ol>
             <li>
               <h1>
-                Sobre <span>Mim</span>
+                Sobre <span> Mim</span>
               </h1>
               <p>
                 Olá, meu nome é <b>Gabriel Hijazi</b>, estudante de{' '}

@@ -36,14 +36,14 @@ export const Content = styled.section`
       text-align: center;
 
       span {
-        color: #ffc0cb;
+        color: #fff569;
       }
 
       @media (max-width: 515px) {
         display: flex;
         flex-direction: column;
         span {
-          color: #ffc0cb;
+          color: #fff569;
         }
       }
     }
@@ -53,7 +53,7 @@ export const Content = styled.section`
       font-size: 4rem;
 
       span {
-        color: #ffc0cb;
+        color: #fff569;
       }
     }
   }
@@ -83,12 +83,13 @@ export const Section = styled.section`
         margin-top: 10px;
         border-left: none;
         line-height: 2.9rem;
+        text-align: justify-all;
         b {
           color: #eec643;
         }
       }
       span {
-        color: #ffc0cb;
+        color: #fff569;
       }
       @media (max-width: 512px) {
         flex-direction: column;

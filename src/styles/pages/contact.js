@@ -14,19 +14,50 @@ export const Head = styled.div`
   text-align: center;
 
   h1 {
+    color: #eec643;
     font-size: 8rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.9);
   }
 `;
 
-export const FormContainer = styled.div`
+export const Form = styled.div`
+  position: relative;
   display: flex;
-  padding: 50px 20px;
-  #form {
-    width: 100%;
-  }
+  padding: 30px 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 `;
 export const Inputs = styled.div`
+  position: relative;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  label {
+    text-transform: uppercase;
+    margin: 5px;
+  }
+  input {
+    width: 350px;
+    height: 30px;
+    border-radius: 3%;
+    margin: 10px;
+    text-align: center;
+    font-weight: 500;
+  }
+  textarea {
+    width: 350px;
+    height: 100px;
+    border-radius: 2%;
+    font-weight: 500;
+  }
+  @media (max-width: 512px) {
+    input {
+      width: 200px;
+    }
+    textarea {
+      width: 200px;
+    }
+  }
 `;

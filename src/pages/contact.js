@@ -1,8 +1,6 @@
 import React from 'react';
 
-import Link from '~/components/Link';
-
-import { Section, Head, FormContainer, Inputs } from '~/styles/pages/contact';
+import { Section, Head, Form, Inputs } from '~/styles/pages/contact';
 
 const ContactPage = () => (
   <>
@@ -10,13 +8,32 @@ const ContactPage = () => (
       <Head>
         <h1>CONTATO</h1>
       </Head>
-      <FormContainer>
+      <Form>
         <Inputs>
-          <form>
-            <input type="text" placeholder="Seu Nome" />
-          </form>
+          <label>Digite seu nome</label>
+          <input name="name" id="name" placeholder="Nome" />
         </Inputs>
-      </FormContainer>
+        <Inputs>
+          <label>Seu E-mail</label>
+          <input name="email" id="email" placeholder="exemplo@exemplo.com.br" />
+        </Inputs>
+        <Inputs>
+          <label>Título</label>
+          <input
+            name="text"
+            id="text"
+            placeholder="Digite o título do contato"
+          />
+        </Inputs>
+        <Inputs>
+          <label>Assunto</label>
+          <textarea
+            name="textarea"
+            id="textarea"
+            placeholder="Digite o assunto do contato"
+          />
+        </Inputs>
+      </Form>
     </Section>
   </>
 );
