@@ -21,7 +21,7 @@ const HeaderComponent = () => {
       <Navigation>
         <Link href="/">Inicio</Link>
         <Link href="#aboutme">Sobre Mim</Link>
-        <Link href="/#####">Projetos</Link>
+        <Link href="#projects">Projetos</Link>
         <Link href="/#####">Contato</Link>
       </Navigation>
     </Container>
