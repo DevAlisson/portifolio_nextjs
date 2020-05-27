@@ -10,17 +10,19 @@ const HeaderComponent = () => {
   const handleScrolled = useCallback(bool => setScrolled(bool), [scrolled]);
 
   useEffect(() => {
-    setScrolled(!!(window.pageYOffset > 80));
+    setScrolled(!!(window.pageYOffset > 120));
 
     window.addEventListener('scroll', () => {
-      handleScrolled(!!(window.pageYOffset > 80));
+      handleScrolled(!!(window.pageYOffset > 120));
     });
   }, []);
   return (
-    <Container>
+    <Container scrolled={scrolled}>
       <Navigation>
         <Link href="/#####">Inicio</Link>
-        <Link href="/#####">Inicio</Link>
+        <Link href="#aboutme">Sobre Mim</Link>
+        <Link href="/#####">Projetos</Link>
+        <Link href="/#####">Contato</Link>
       </Navigation>
     </Container>
   );
