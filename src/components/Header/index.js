@@ -19,7 +19,7 @@ const HeaderComponent = () => {
   return (
     <Container scrolled={scrolled}>
       <Navigation>
-        <Link href="/#####">Inicio</Link>
+        <Link href="/">Inicio</Link>
         <Link href="#aboutme">Sobre Mim</Link>
         <Link href="/#####">Projetos</Link>
         <Link href="/#####">Contato</Link>
