@@ -32,6 +32,9 @@ export const Container = styled.header`
       box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.5);
       background-color: #333533;
     `}
+  @media(max-width:512px) {
+    white-space: nowrap;
+  }
 `;
 
 export const Navigation = styled.nav`

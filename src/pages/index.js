@@ -30,7 +30,9 @@ const HomePage = () => (
         <Section id="aboutme">
           <ol>
             <li>
-              <h1>Sobre Mim</h1>
+              <h1>
+                Sobre <span>Mim</span>
+              </h1>
               <p>
                 Olá, meu nome é <b>Gabriel Hijazi</b>, estudante de{' '}
                 <b>Engenharia da Computação </b>na{' '}
@@ -38,7 +40,7 @@ const HomePage = () => (
                 maioria das tecnologias de desenvolvimento em casa por puro
                 interesse e vontade de me tornar programador de sucesso. Comecei
                 com desenvolvimento de bots para Discord mas sempre tive
-                interesse no Web e Mobile. Atualmente CEO da organização
+                interesse no <b>Web e Mobile</b>. Atualmente CEO da organização
                 <b> SweetCode</b> onde desenvolvemos por pura diversão buscando
                 sempre conhecimento e trabalho em equipe visando o crescimento
                 individual e em grupo. Tenho apenas 23 anos e ainda sei que

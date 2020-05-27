@@ -26,7 +26,7 @@ export const Content = styled.section`
     height: 100%;
     z-index: 2;
 
-    padding: 25% 40px;
+    padding: 20% 40px;
     align-items: center;
     flex-direction: column;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8));
@@ -36,7 +36,7 @@ export const Content = styled.section`
       text-align: center;
 
       span {
-        color: #ff69b4;
+        color: #ffc0cb;
       }
 
       @media (max-width: 515px) {
@@ -66,7 +66,7 @@ export const Section = styled.section`
   background-color: #2c2f33;
 
   ol {
-    & > li {
+    li {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -83,6 +83,33 @@ export const Section = styled.section`
         margin-top: 10px;
         border-left: none;
         line-height: 2.9rem;
+        b {
+          color: #eec643;
+        }
+      }
+      span {
+        color: #ffc0cb;
+      }
+      @media (max-width: 512px) {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        h1 {
+          border: none;
+          display: flex;
+          padding: 10px;
+          font-size: 8.9rem;
+          border-bottom: 1px solid rgba(255, 255, 255, 0.9);
+        }
+        p {
+          font-size: 1.9rem;
+          margin-left: 10px;
+          margin-right: 10px;
+          margin-top: 20px;
+          border-left: none;
+          line-height: 2.9rem;
+        }
       }
     }
   }
