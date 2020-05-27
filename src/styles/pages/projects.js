@@ -9,7 +9,7 @@ export const Section = styled.section`
 
   h1 {
     color: #000;
-    font-size: 7rem;
+    font-size: 8rem;
   }
 `;
 

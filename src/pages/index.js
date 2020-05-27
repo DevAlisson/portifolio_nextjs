@@ -4,6 +4,7 @@ import Layout from '~/layouts/Default';
 
 import Slider from '~/components/Slider';
 
+import ContactPage from '~/pages/contact';
 import ProjectsSection from '~/pages/projects';
 
 import { HomeContainer, Content, Section } from '~/styles/pages/index';
@@ -53,8 +54,11 @@ const HomePage = () => (
           </ol>
         </Section>
 
-        {/* Projects Secion Page Component */}
+        {/* Projects SectionPage Component */}
         <ProjectsSection />
+
+        {/* Contact SectionPage Component */}
+        <ContactPage />
       </HomeContainer>
     </Layout>
   </>

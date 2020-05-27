@@ -22,7 +22,7 @@ const HeaderComponent = () => {
         <Link href="/">Inicio</Link>
         <Link href="#aboutme">Sobre Mim</Link>
         <Link href="#projects">Projetos</Link>
-        <Link href="/#####">Contato</Link>
+        <Link href="#contact">Contato</Link>
       </Navigation>
     </Container>
   );

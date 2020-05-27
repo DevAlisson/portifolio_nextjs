@@ -2,6 +2,8 @@ import React from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { FiSend } from 'react-icons/fi';
 
+import websites from '~/data/weblinks';
+
 import {
   Section,
   ProjectsContainer,
@@ -14,30 +16,28 @@ const ProjectsPage = () => (
     <Section id="projects">
       <h1>PROJETOS</h1>
       <ProjectsContainer>
-        <Row>
-          <img src="/static/tests/corona.png" alt="Logo" />
-          <span>COVID AGORA</span>
-          <BrandsContainer>
-            <a href="###" rel="noopener noreferrer" target="_blank">
-              <FaGithub color="#000" size="3.5rem" />
-            </a>
-            <a href="###" rel="noopener noreferrer" target="_blank">
-              <FiSend color="#000" size="3.5rem" />
-            </a>
-          </BrandsContainer>
-        </Row>
-        <Row>
-          <img src="/static/tests/rsxp.png" alt="Logo" />
-          <span>RSXP</span>
-          <BrandsContainer>
-            <a href="###" rel="noopener noreferrer" target="_blank">
-              <FaGithub color="#000" size="3.5rem" />
-            </a>
-            <a href="###" rel="noopener noreferrer" target="_blank">
-              <FiSend color="#000" size="3.5rem" />
-            </a>
-          </BrandsContainer>
-        </Row>
+        {websites.map(project => (
+          <Row key={project.id}>
+            <img src={project.image} alt="Project Logo" />
+            <span>{project.name}</span>
+            <BrandsContainer>
+              <a
+                href={project.github_repo}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <FaGithub color="#000" size="3.5rem" />
+              </a>
+              <a
+                href={project.website_link}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <FiSend color="#000" size="3.5rem" />
+              </a>
+            </BrandsContainer>
+          </Row>
+        ))}
       </ProjectsContainer>
     </Section>
   </>
