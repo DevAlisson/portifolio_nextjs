@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Section = styled.section`
   position: relative;
   display: flex;
-  padding: 120px 0;
+  padding: 100px 0;
   flex-direction: column;
 `;
 
@@ -27,6 +27,21 @@ export const Form = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  button {
+    background-color: #eec643;
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+    border-radius: 4%;
+    font-weight: bold;
+    color: #000;
+  }
+  button:hover {
+    transition: 800ms;
+    background-color: #000;
+    color: #fff;
+  }
 `;
 export const Inputs = styled.div`
   position: relative;
@@ -52,6 +67,7 @@ export const Inputs = styled.div`
     border-radius: 2%;
     font-weight: 500;
   }
+
   @media (max-width: 512px) {
     input {
       width: 200px;

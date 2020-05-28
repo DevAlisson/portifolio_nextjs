@@ -33,6 +33,9 @@ const ContactPage = () => (
             placeholder="Digite o assunto do contato"
           />
         </Inputs>
+        <button className="button" type="submit">
+          Enviar !
+        </button>
       </Form>
     </Section>
   </>
