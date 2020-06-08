@@ -23,12 +23,14 @@ const FooterComponent = () => (
         está, irei disponibilizar uma versão para comercialização em breve!
       </p>
     </Content>
-    <NavigationContainer>
-  <img src="/static/tests/hijazi.png" alt="Gabriel Hijazi" />
-  <p>
+    <Content>
+   <img src="/static/tests/hijazi.png" alt="Gabriel Hijazi" />
+   <p>
       Credits: Gabriel Hijazi
       Site: https://devhijazi.tk/
       </p>
+    </Content>
+    <NavigationContainer>
       <strong>Credits: Gabriel Hijazi</strong>
       <strong>©2020</strong>
       <Navigation>
