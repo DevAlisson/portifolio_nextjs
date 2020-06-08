@@ -23,10 +23,10 @@ const HomePage = () => (
           />
           <div>
             <h1>
-              Gabriel <span>HijaZi</span>
+              Allisson<span>GOD</span>
             </h1>
             <p>
-              Desenvolvedor <span>FullStack!</span>
+              Desenvolvedor <span>JavaScript, Java, Python!</span>
             </p>
           </div>
         </Content>
@@ -37,18 +37,15 @@ const HomePage = () => (
                 Sobre <span> Mim</span>
               </h1>
               <p>
-                Olá, meu nome é <b>Gabriel Hijazi</b>, estudante de{' '}
-                <b>Engenharia da Computação </b>na{' '}
-                <b>Universidade Federal do Mato grosso do Sul</b>. Aprendi a
+                Olá, meu nome é <b>AllissonG</b>, estudante de{' '}
+                <b>JavaScript, Python, Java </b>na{' '}
+                <b>Discord e Minecraft</b>. Aprendi a
                 maioria das tecnologias de desenvolvimento em casa por puro
                 interesse e vontade de me tornar programador de sucesso. Comecei
                 com desenvolvimento de bots para Discord mas sempre tive
-                interesse no <b>Web e Mobile</b>. Atualmente CEO da organização
-                <b> SweetCode</b> onde desenvolvemos por pura diversão buscando
-                sempre conhecimento e trabalho em equipe visando o crescimento
-                individual e em grupo. Tenho apenas 23 anos e ainda sei que
-                tenho muito a aprender mas com foco e determinação alcançarei
-                meus objetivos profissionais.
+                interesse no <b>Web e Software</b>. Atualmente Support do
+                <b> KaelBot</b> onde é um bot desenvolvido em js e estamos
+                criando varios projetos pra deixar esse bot grande futuramente.
               </p>
             </li>
           </ol>
