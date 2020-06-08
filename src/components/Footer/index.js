@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { FiInstagram } from 'react-icons/fi';
+import { FiTwitter } from 'react-icons/fi';
 
 import Link from '~/components/Link';
 
