@@ -1,14 +1,16 @@
 export default [
   {
-    name: 'COVID AGORA',
-    image: '/static/tests/corona.png',
-    github_repo: 'https://github.com/sweetcodeio/corona',
-    website_link: 'https://covidagora.site/',
+    name: 'KaelBot',
+    image: '/static/tests/Kael.png',
+    github_repo: 'https://github.com/Kaeltec/',
+    website_link: 'https://kaelbot.xyz/',
+    owner: 't l3atman#2021',
+    server: 'https://discord.com/invite/DBMvAzA',
   },
   {
-    name: 'RSXP TRACKER',
-    image: '/static/tests/rsxp.png',
-    github_repo: 'https://github.com/sweetcodeio/rsxp-web',
-    website_link: '/404',
+  name: 'Gabriel Hijazi',
+  image: '/static/tests/Hijazi.png',
+  github_repo: 'https://github.com/devhijazi',
+  website_link: 'https://devhijazi.tk/',
   },
 ];
