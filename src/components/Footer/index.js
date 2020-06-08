@@ -26,7 +26,7 @@ const FooterComponent = () => (
     <Content>
    <img src="/static/tests/Hijazi.png" alt="Gabriel Hijazi" />
    <p>
-      Credits: Gabriel Hijazi
+      Credits: Gabriel Hijazi > Obrigado Hijazi pra eu pra eu ta usando essa repo. Vai no Site do Hijazi Vlw 
       Site: https://devhijazi.tk/
       </p>
     </Content>
