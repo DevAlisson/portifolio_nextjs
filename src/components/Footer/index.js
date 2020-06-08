@@ -24,6 +24,12 @@ const FooterComponent = () => (
       </p>
     </Content>
     <NavigationContainer>
+  <img src="/static/tests/hijazi.png" alt="Gabriel Hijazi" />
+  <p>
+      Credits: Gabriel Hijazi
+      Site: https://devhijazi.tk/
+      </p>
+      <strong>Credits: Gabriel Hijazi</strong>
       <strong>©2020</strong>
       <Navigation>
         <Link href="/404">Termos de Uso</Link>
@@ -38,6 +44,18 @@ const FooterComponent = () => (
         </a>
         <a
           href="https://www.instagram.com/hijazi_gabriel/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+  <a
+          href="https://twitter.com/BotKael"l/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <FiInstagram color="#fff" size="2.5rem" />
+        </a>
+        <a
+          href="https://twitter.com/BotKael"
           rel="noopener noreferrer"
           target="_blank"
         >
