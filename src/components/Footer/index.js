@@ -24,7 +24,7 @@ const FooterComponent = () => (
       </p>
     </Content>
     <Content>
-   <img src="/static/tests/hijazi.png" alt="Gabriel Hijazi" />
+   <img src="/static/tests/Hijazi.png" alt="Gabriel Hijazi" />
    <p>
       Credits: Gabriel Hijazi
       Site: https://devhijazi.tk/
