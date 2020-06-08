@@ -48,7 +48,7 @@ const FooterComponent = () => (
           target="_blank"
         >
   <a
-          href="https://twitter.com/BotKael"l/"
+          href="https://twitter.com/BotKael"
           rel="noopener noreferrer"
           target="_blank"
         >
