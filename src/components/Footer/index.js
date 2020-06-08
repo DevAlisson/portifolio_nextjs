@@ -52,7 +52,7 @@ const FooterComponent = () => (
           rel="noopener noreferrer"
           target="_blank"
         >
-          <FiInstagram color="#fff" size="2.5rem" />
+          <FiTwitter color="#fff" size="2.5rem" />
         </a>
         <a
           href="https://twitter.com/BotKael"
