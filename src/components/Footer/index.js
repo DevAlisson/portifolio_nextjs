@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaGithub } from 'react-icons/fa';
 import { FiInstagram } from 'react-icons/fi';
-import { FiTwitter } from 'react-icons/fi';
 
 import Link from '~/components/Link';
 
@@ -45,18 +44,6 @@ const FooterComponent = () => (
         </a>
         <a
           href="https://www.instagram.com/hijazi_gabriel/"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-  <a
-          href="https://twitter.com/BotKael"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          <FiTwitter color="#fff" size="2.5rem" />
-        </a>
-        <a
-          href="https://twitter.com/BotKael"
           rel="noopener noreferrer"
           target="_blank"
         >
