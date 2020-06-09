@@ -44,8 +44,8 @@ const HomePage = () => (
                 interesse e vontade de me tornar programador de sucesso. Comecei
                 com desenvolvimento de bots para Discord mas sempre tive
                 interesse no <b>Web e Software</b>. Atualmente Support do
-                <b> KaelBot</b> onde é um bot desenvolvido em js e estamos
-                criando varios projetos pra deixar esse bot grande futuramente.
+                <b> KaelBot</b> onde é um bot desenvolvido em eris e futuramente
+                vamos está fazendo varias atualizações.
               </p>
             </li>
           </ol>
