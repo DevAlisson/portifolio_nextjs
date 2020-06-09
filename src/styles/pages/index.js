@@ -43,7 +43,7 @@ export const Content = styled.section`
         display: flex;
         flex-direction: column;
         span {
-          color: #fff569;
+          color: #0000ff;
         }
       }
     }
@@ -53,7 +53,7 @@ export const Content = styled.section`
       font-size: 4rem;
 
       span {
-        color: #fff569;
+        color: #0000ff;
       }
     }
   }
