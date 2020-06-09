@@ -85,7 +85,7 @@ export const Section = styled.section`
         line-height: 2.9rem;
         text-align: justify-all;
         b {
-          color: #eec643;
+          color: #f23859;
         }
       }
       span {
