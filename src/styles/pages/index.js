@@ -36,7 +36,7 @@ export const Content = styled.section`
       text-align: center;
 
       span {
-        color: #fff569;
+        color: #0000ff;
       }
 
       @media (max-width: 515px) {
