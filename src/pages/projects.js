@@ -14,6 +14,7 @@ import {
 const ProjectsPage = () => (
   <>
     <Section id="projects">
+      <title> Projetos </title>
       <h1>PROJETOS</h1>
       <ProjectsContainer>
         {websites.map(project => (
