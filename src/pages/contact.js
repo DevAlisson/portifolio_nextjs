@@ -6,6 +6,7 @@ const ContactPage = () => (
   <>
     <Section id="contact">
       <Head>
+       <title>CONTATOS</title>
         <h1>CONTATO</h1>
       </Head>
       <Form>
