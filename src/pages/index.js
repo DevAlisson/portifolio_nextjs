@@ -22,6 +22,7 @@ const HomePage = () => (
             ]}
           />
           <div>
+           <title> AllissonGOD </title>
             <h1>
               Allisson<span>GOD</span>
             </h1>
