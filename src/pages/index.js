@@ -4,8 +4,6 @@ import Layout from '~/layouts/Default';
 
 import Slider from '~/components/Slider';
 
-import profile from '../../public/static/profile/perfil.png'
-
 import ContactPage from '~/pages/contact';
 import ProjectsSection from '~/pages/projects';
 
@@ -28,7 +26,6 @@ const HomePage = () => (
             <h1>
               Allisson<span>GOD</span>
             </h1>
-            <img src={profile}/>
             <p>
               Desenvolvedor <span>JavaScript, Java, Python!</span>
             </p>
