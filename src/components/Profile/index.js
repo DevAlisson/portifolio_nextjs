@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { useState, useCallback, useEffect } from 'react';
 
-import { SliderContainer, Image } from './styles';
+import { ProfileContainer, Image } from './styles';
 
 const SliderComponent = ({ images }) => {
   const [selected, setSelected] = useState(0);
@@ -19,7 +19,7 @@ const SliderComponent = ({ images }) => {
   }, []);
 
   return (
-    <SliderContainer>
+    <Profile>
       {images.map((image, i) => (
         <Image
           key={image}
@@ -28,7 +28,7 @@ const SliderComponent = ({ images }) => {
           alt={`Slider ${i}`}
         />
       ))}
-    </SliderContainer>
+    </ProfileContainer>
   );
 };
 
