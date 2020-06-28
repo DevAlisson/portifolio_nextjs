@@ -22,19 +22,12 @@ const FooterComponent = () => (
         desenvolvido a mão. O repositório do website não será divulgada como
         está, irei disponibilizar uma versão para comercialização em breve!
       </p>
-    </Content>
-    <Content>
-   <img src="/static/tests/Hijazi.png" alt="Gabriel Hijazi" />
-   <p>
-      Credits: Gabriel Hijazi > Obrigado Hijazi pra eu pra eu ta usando essa repo. Vai no Site do Hijazi Vlw 
-      Site: https://devhijazi.tk/
-      </p>
-    </Content>
     <NavigationContainer>
-      <strong>Credits: Gabriel Hijazi</strong>
+      <strong>Credits: Gabriel Hijazi | AllissonGOD</strong>
       <strong>©2020</strong>
       <Navigation>
         <Link href="/404">Termos de Uso</Link>
+        <Link href="https://devhijazi.tk">Gabriel Hijazi</Link>
       </Navigation>
       <Icons>
         <a
