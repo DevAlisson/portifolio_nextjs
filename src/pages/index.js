@@ -24,7 +24,7 @@ const HomePage = () => (
             ]}
           />
          <Profile
-          profile={[
+          images={[
           '/static/profile/perfil.png',
           ]}
           />
