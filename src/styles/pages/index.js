@@ -51,9 +51,6 @@ export const Content = styled.section`
     p {
       margin-top: 10px;
       font-size: 4rem;
-      margin-left: 5px;
-      opacity: 1;
-      animation: pisca .7s infinite;
 
       span {
         color: #0000ff;
