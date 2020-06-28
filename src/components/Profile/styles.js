@@ -1,4 +1,4 @@
-mport styled from 'styled-components';
+import styled from 'styled-components';
 
 export const ProfileContainer = styled.section`
   width: 100%;
