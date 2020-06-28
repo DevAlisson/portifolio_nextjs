@@ -22,6 +22,7 @@ const FooterComponent = () => (
         desenvolvido a mão. O repositório do website não será divulgada como
         está, irei disponibilizar uma versão para comercialização em breve!
       </p>
+     </Content>
     <NavigationContainer>
       <strong>Credits: Gabriel Hijazi | AllissonGOD</strong>
       <strong>©2020</strong>
