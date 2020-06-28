@@ -24,7 +24,7 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
           <meta name="theme-color" content="#23272A" />
-          <meta name="author" content="Gabriel HijaZi" />
+          <meta name="author" content="AllissonGOD" />
 
           <link rel="icon" href="/icon.png" />
 
