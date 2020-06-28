@@ -23,6 +23,7 @@ const HomePage = () => (
           />
           <div>
             <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
+            <link rel="sortcut icon" href="/static/profile/perfil" type="image/png" />;
            <title> AllissonGOD </title>
             <h1>
               Allisson<span>GOD</span>
