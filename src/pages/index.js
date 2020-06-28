@@ -4,6 +4,8 @@ import Layout from '~/layouts/Default';
 
 import Slider from '~/components/Slider';
 
+import Profile from '~/components/Profile';
+
 import ContactPage from '~/pages/contact';
 import ProjectsSection from '~/pages/projects';
 
@@ -21,8 +23,12 @@ const HomePage = () => (
               '/static/images/slider_03.jpg',
             ]}
           />
+         <Profile
+          profile={[
+          '/static/profile/perfil.png',
+          ]}
+          />
           <div>
-           <img src="static/profile/perfil.png" alt="logo" />
            <title> AllissonGOD </title>
             <h1>
               Allisson<span>GOD</span>
