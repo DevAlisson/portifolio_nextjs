@@ -22,7 +22,7 @@ const HomePage = () => (
             ]}
           />
           <div>
-            <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
+            <img src="/static/profile/perfil.png" alt="logo" width="200" height="auto"/>
            <title> AllissonGOD </title>
             <h1>
               Allisson<span>GOD</span>
