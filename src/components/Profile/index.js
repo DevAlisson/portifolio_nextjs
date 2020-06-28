@@ -19,7 +19,7 @@ const SliderComponent = ({ images }) => {
   }, []);
 
   return (
-    <Profile>
+    <ProfileContainer>
       {images.map((image, i) => (
         <Image
           key={image}
