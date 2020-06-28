@@ -38,22 +38,6 @@ export const Content = styled.section`
       span {
         color: #0000ff;
       }
-     
-      span:after {
-      content: '|';
-       margin-left: 5px;
-       opacity: 1;
-       animation: pisca .7s infinite;
-       }
- 
-     @keyframes pisca{
-        0%, 100%{
-        opacity: 1;
-    }
-        50%{
-        opacity: 0;
-      }
-   }
 
       @media (max-width: 515px) {
         display: flex;
@@ -72,6 +56,23 @@ export const Content = styled.section`
         color: #0000ff;
       }
     }
+
+         span:after {
+      content: '|';
+       margin-left: 5px;
+       opacity: 1;
+       animation: pisca .7s infinite;
+       }
+ 
+     @keyframes pisca{
+        0%, 100%{
+        opacity: 1;
+    }
+        50%{
+        opacity: 0;
+      }
+
+   }
   }
 `;
 export const Section = styled.section`
