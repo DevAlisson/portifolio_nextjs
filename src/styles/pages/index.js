@@ -38,6 +38,13 @@ export const Content = styled.section`
       span {
         color: #0000ff;
       }
+     
+      span:after {
+      content: '|';
+       margin-left: 5px;
+       opacity: 1;
+       animation: pisca .7s infinite;
+       }
  
      @keyframes pisca{
         0%, 100%{
