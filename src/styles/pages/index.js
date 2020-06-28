@@ -54,8 +54,6 @@ export const Content = styled.section`
 
       span {
         color: #0000ff;
-      }
-    }
 
          span:after {
       content: '|';
@@ -71,7 +69,8 @@ export const Content = styled.section`
         50%{
         opacity: 0;
       }
-
+   }
+    }
    }
   }
 `;
