@@ -24,7 +24,7 @@ const HomePage = () => (
           <div>
             <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
             // <link rel="icon" type="imagem/png" href="/static/profile/perfil" />
-             <link rel="icon" href="/static/profile/perfil">
+             <link rel="icon" href="/static/profile/perfil"/>
            <title> AllissonGOD </title>
             <h1>
               Allisson<span>GOD</span>
