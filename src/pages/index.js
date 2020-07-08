@@ -21,6 +21,7 @@ const HomePage = () => (
               '/static/images/slider_03.jpg',
             ]}
           />
+          <head> <link rel="icon" href="/favicon.ico" /> /head>
           <div>
             <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
             // <link rel="icon" type="imagem/png" href="/static/profile/perfil" />
