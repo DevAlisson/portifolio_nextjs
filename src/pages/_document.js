@@ -26,7 +26,7 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#23272A" />
           <meta name="author" content="AllissonGOD" />
 
-          <link rel="icon" href="/icon.png" />
+          <link rel="icon" href="/static/profile/perfil.ico" />
 
           <link
             rel="stylesheet"
