@@ -30,7 +30,7 @@ const GiftPage = () => {
           <section>
          <title> Liana </title>
             <h1>
-              Liana
+              Liana / <span> Giovanna </span>
             </h1>
             <p className="subtitle">
               <span className="beforeSpan">
