@@ -24,7 +24,7 @@ const FooterComponent = () => (
       </p>
      </Content>
     <NavigationContainer>
-      <strong>Credits: Gabriel Hijazi | AllissonGOD</strong>
+      <strong>Credits: Gabriel Hijazi | AllissonGOD </strong>
       <strong>©2020</strong>
       <Navigation>
         <Link href="/404">Termos de Uso</Link>
