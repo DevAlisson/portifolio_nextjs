@@ -1,41 +1,44 @@
 import React from 'react';
+import { ControlBar, PlayToggle } from 'video-react';
 
 import Layout from '~/layouts/Default';
 
-import Slider from '~/components/Slider';
+// import Slider from '~/components/Slider';
 
-import ContactPage from '~/pages/contact';
-import ProjectsSection from '~/pages/projects';
+// import ContactPage from '~/pages/contact';
+// import ProjectsSection from '~/pages/projects';
 
-import { HomeContainer, Content, Section } from '~/styles/pages/index';
+import { HomeContainer, Content, Section, Player } from '~/styles/pages/index';
 
-const GiftPage = () => (
-  <>
+const GiftPage = () => {
+  return (
     <Layout>
       <HomeContainer>
         <Content>
-          <Slider
-            images={[
-              '/static/images/slider_01.jpg',
-              '/static/images/slider_02.jpeg',
-              '/static/images/slider_03.jpg',
-            ]}
-          />
-          <div>
-           <link rel="icon" href="/static/profile/perfil.ico" />
-            <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
-           <title> Liana </title>
+          <Player
+            autoPlay
+            muted="true"
+            loop="true"
+            controls="false"
+            src="/static/videos/video_02.mp4"
+          >
+            <ControlBar autoHide="false" disableDefaultControls="true">
+              <PlayToggle />
+            </ControlBar>
+          </Player>
+
+          <section>
             <h1>
-              Liana
+              Gabriel <span>HijaZi</span>
             </h1>
-           <h2>
-            Seja Bem Vinda ao Seu Presente
-           </h2>
-            <p>
-              Seja Bem Vinda <span>😄</span>
-            </p>
-          </div>
+            {/* <p className="subtitle">
+              <span className="beforeSpan">
+                JavaScript / React / React Native{' '}
+              </span>
+            </p> */}
+          </section>
         </Content>
+
         <Section id="aboutme">
           <ol>
             <li>
@@ -43,28 +46,24 @@ const GiftPage = () => (
                 Sobre <span> Mim</span>
               </h1>
               <p>
-                Olá, meu nome é <b>AllissonG</b>, estudante de{' '}
-                <b>JavaScript, Python, Java </b>na{' '}
-                <b>Discord e Minecraft</b>. Aprendi a
-                maioria das tecnologias de desenvolvimento em casa por puro
-                interesse e vontade de me tornar programador de sucesso. Comecei
-                com desenvolvimento de bots para Discord mas sempre tive
-                interesse no <b>Web e Software</b>. Atualmente Moderador do
-                <b> KaelBot</b> onde é um bot desenvolvido em eris e futuramente
-                vamos está fazendo varias atualizações.
+               Roi <b>Liana</b> ne? Seja Bem Vinda eu sei que somos só amigos{' '}
+               mais eu queria fazer algo especial então eu to fazendo isso
+               o banner da tela de carregamento era so pra vc ver pois eu tirei
+               mais o seu presente ta no meu site é secreto pois ngm sabe
+               eu ia mostrar no nosso <b>aniversario de 4 meses de amizade</b>{' '}
+                mais o coração falou mais forte
               </p>
             </li>
           </ol>
         </Section>
 
         {/* Projects SectionPage Component */}
-        <ProjectsSection />
+       // <ProjectsSection />
 
         {/* Contact SectionPage Component */}
-        <ContactPage />
+       // <ContactPage />
       </HomeContainer>
     </Layout>
-  </>
-);
-
+  );
+};
 export default GiftPage;
