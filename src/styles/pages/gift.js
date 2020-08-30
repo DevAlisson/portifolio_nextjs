@@ -62,7 +62,7 @@ export const Content = styled.section`
 
 export const Section = styled.section`
   display: flex;
-  padding: 120px 0;
+  padding: 40 0;
   flex-direction: column;
   background-color: #2c2f33;
   ol {
