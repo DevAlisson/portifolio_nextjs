@@ -62,6 +62,61 @@ export const Content = styled.section`
 
 export const Section = styled.section`
   display: flex;
+  padding: 120 0;
+  flex-direction: column;
+  background-color: #2c2f33;
+  ol {
+    li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      h1 {
+        margin-right: 20px;
+        padding: 10px;
+        font-size: 8.9rem;
+        border-right: 1px solid rgba(255, 255, 255, 0.9);
+      }
+      p {
+        font-size: 1.9rem;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+        border-left: none;
+        line-height: 2.9rem;
+        text-align: justify-all;
+        b {
+          color: #ff0000;
+        }
+      }
+      span {
+        color: #ff0000;
+      }
+      @media (max-width: 512px) {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        h1 {
+          border: none;
+          display: flex;
+          padding: 10px;
+          font-size: 8.9rem;
+          border-bottom: 1px solid rgba(255, 255, 255, 0.9);
+        }
+        p {
+          font-size: 1.9rem;
+          margin-left: 10px;
+          margin-right: 10px;
+          margin-top: 20px;
+          border-left: none;
+          line-height: 2.9rem;
+        }
+      }
+    }
+  }
+`;
+
+export const Gift = styled.section`
+  display: flex;
   padding: 40 0;
   flex-direction: column;
   background-color: #2c2f33;
