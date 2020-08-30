@@ -5,8 +5,8 @@ import Layout from '~/layouts/Default';
 
 // import Slider from '~/components/Slider';
 
-import ContactPage from '~/pages/contact';
-import ProjectsSection from '~/pages/projects';
+// import ContactPage from '~/pages/contact';
+// import ProjectsSection from '~/pages/projects';
 
 import { HomeContainer, Content, Section, Player } from '~/styles/pages/gift';
 
@@ -43,9 +43,6 @@ const GiftPage = () => {
         <Section id="aboutme">
           <ol>
             <li>
-              <h1>
-                Sobre <span> Mim</span>
-              </h1>
               <p>
                Roi <b>Liana</b> ne? Seja Bem Vinda eu sei que somos só amigos{' '}
                mais eu queria fazer algo especial então eu to fazendo isso
