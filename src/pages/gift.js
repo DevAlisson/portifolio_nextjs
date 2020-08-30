@@ -51,7 +51,7 @@ const GiftPage = () => {
                o banner da tela de carregamento era so pra vc ver pois eu tirei
                mais o seu presente ta no meu site é secreto pois ngm sabe
                eu ia mostrar no nosso <b>aniversario de 4 meses de amizade</b>{' '}
-                mais o coração falou mais forte.
+                mais o coração falou mais forte.\n\n
     
                Eu sei que to aqui com vc por tudo, a gente é amigo eu sei
                so que eu quero te conhecer mais sem eu ficar pensando ela é ex do meu amigo
