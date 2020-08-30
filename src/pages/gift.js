@@ -24,10 +24,13 @@ const GiftPage = () => (
           <div>
            <link rel="icon" href="/static/profile/perfil.ico" />
             <img src="/static/profile/perfil.png" alt="logo" width="100" height="auto"/>
-           <title> AllissonGOD </title>
+           <title> Liana </title>
             <h1>
-              Allisson<span>GOD</span>
+              Roi Liana ne?
             </h1>
+           <h2>
+            Seja Bem Vinda ao Seu Presente
+           </h2>
             <p>
               Desenvolvedor <span>JavaScript, Java, Python!</span>
             </p>
