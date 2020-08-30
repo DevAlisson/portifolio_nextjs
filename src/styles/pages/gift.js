@@ -24,7 +24,7 @@ export const Content = styled.section`
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8));
     h1 {
       font-size: 10rem;
-      text-align: center;
+      text-align: justify;
       span {
         color: #fff569;
       }
