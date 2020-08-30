@@ -32,8 +32,8 @@ const GiftPage = () => {
             <h1>
               Liana
             </h1>
-            <p>
-              <span>
+            <p className="subtitle">
+              <span className="beforeSpan">
                 👑 Seja Bem Vinda 👑{' '}
               </span>
             </p>
