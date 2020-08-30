@@ -117,7 +117,7 @@ export const Section = styled.section`
 
 export const Gift = styled.section`
   display: flex;
-  padding: 40 0;
+  padding: 120 0;
   flex-direction: column;
   background-color: #2c2f33;
   ol {
