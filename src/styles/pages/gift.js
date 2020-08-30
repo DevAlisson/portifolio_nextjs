@@ -26,7 +26,7 @@ export const Content = styled.section`
       font-size: 10rem;
       text-align: center;
       span {
-        color: #fff569;
+        color: #ff0000;
       }
       @media (max-width: 515px) {
         display: flex;
