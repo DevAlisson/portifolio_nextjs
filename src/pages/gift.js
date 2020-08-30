@@ -8,7 +8,7 @@ import { ControlBar, PlayToggle } from 'video-react';
 // import ContactPage from '~/pages/contact';
 // import ProjectsSection from '~/pages/projects';
 
-import { HomeContainer, Content, Section, Player } from '~/styles/pages/gift';
+import { HomeContainer, Content, Section, Player, Gift } from '~/styles/pages/gift';
 
 const GiftPage = () => {
   return (
@@ -55,7 +55,7 @@ const GiftPage = () => {
           </ol>
         </Section>
     
-           <Section id="liana">
+           <Gift id="liana">
           <ol>
             <li>
               <p>
@@ -74,7 +74,7 @@ const GiftPage = () => {
               </p>
             </li>
           </ol>
-        </Section>
+        </Gift>
 
         {/* Projects SectionPage Component
         <ProjectsSection />* /}
