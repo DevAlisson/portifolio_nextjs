@@ -54,7 +54,7 @@ export const Content = styled.section`
       display: none;
     }
     .subtitle:after {
-      content: 'Developer Full-Stack';
+      content: 'Seja Bem Vinda Gatinha';
       font-size: 3rem;
     }
   }
