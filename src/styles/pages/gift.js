@@ -32,7 +32,7 @@ export const Content = styled.section`
         display: flex;
         flex-direction: column;
         span {
-          color: #fff569;
+          color: #ff0000;
         }
       }
     }
@@ -45,7 +45,7 @@ export const Content = styled.section`
     h1 {
       padding-top: 20px;
       font-size: 3rem;
-      color: #fff569;
+      color: #ff0000;
     }
     span {
       display: none;
@@ -85,11 +85,11 @@ export const Section = styled.section`
         line-height: 2.9rem;
         text-align: justify-all;
         b {
-          color: #eec643;
+          color: #ff0000;
         }
       }
       span {
-        color: #fff569;
+        color: #ff0000;
       }
       @media (max-width: 512px) {
         flex-direction: column;
