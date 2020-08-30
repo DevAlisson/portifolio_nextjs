@@ -30,7 +30,7 @@ const GiftPage = () => {
           <section>
            <div>
          <link rel="icon" href="/static/profile/gift.ico" />
-         <img src="/static/profile/gift.png" alt="logo" width="100" height="auto"/>
+         <img src="/static/profile/gift.png" alt="logo" width="720" height="auto"/>
          <title> Liana </title>
             <h1>
               Liana
