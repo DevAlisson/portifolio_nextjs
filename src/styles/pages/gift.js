@@ -48,7 +48,7 @@ export const Content = styled.section`
       color: #fff569;
     }
     span {
-      display: none;
+      color: #ff0000;
     }
     .beforeSpan:before {
       display: none;
