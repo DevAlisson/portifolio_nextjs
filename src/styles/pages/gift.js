@@ -85,11 +85,11 @@ export const Section = styled.section`
         line-height: 2.9rem;
         text-align: justify-all;
         b {
-          color: #eec643;
+          color: #ff0000;
         }
       }
       span {
-        color: #fff569;
+        color: #ff0000;
       }
       @media (max-width: 512px) {
         flex-direction: column;
