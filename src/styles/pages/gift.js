@@ -39,13 +39,16 @@ export const Content = styled.section`
     .subtitle {
       margin-top: 10px;
       font-size: 4rem;
+     lia {
+      color: #ff0000
+      }
     }
   }
   @media (max-width: 512px) {
     h1 {
       padding-top: 20px;
       font-size: 3rem;
-      color: #fff569;
+      color: #ff0000;
     }
     span {
       color: #ff0000;
@@ -56,6 +59,7 @@ export const Content = styled.section`
     .subtitle:after {
       content: 'Seja Bem Vinda Gatinha';
       font-size: 3rem;
+      color: #ff0000;
     }
   }
 `;
