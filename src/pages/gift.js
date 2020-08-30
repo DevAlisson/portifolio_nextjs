@@ -8,7 +8,7 @@ import Layout from '~/layouts/Default';
 // import ContactPage from '~/pages/contact';
 // import ProjectsSection from '~/pages/projects';
 
-import { HomeContainer, Content, Section, Player } from '~/styles/pages/index';
+import { HomeContainer, Content, Section, Player } from '~/styles/pages/gift';
 
 const GiftPage = () => {
   return (
@@ -20,7 +20,7 @@ const GiftPage = () => {
             muted="true"
             loop="true"
             controls="false"
-            src="/static/videos/video_02.mp4"
+            src="/static/videos/video_01.mp4"
           >
             <ControlBar autoHide="false" disableDefaultControls="true">
               <PlayToggle />
@@ -28,14 +28,13 @@ const GiftPage = () => {
           </Player>
 
           <section>
+         <title> Liana </title>
             <h1>
-              Gabriel <span>HijaZi</span>
+              Liana
             </h1>
-            {/* <p className="subtitle">
-              <span className="beforeSpan">
-                JavaScript / React / React Native{' '}
-              </span>
-            </p> */}
+            <p>
+            👑 <span>Seja Bem Vinda</span> 👑
+            </p>
           </section>
         </Content>
 
