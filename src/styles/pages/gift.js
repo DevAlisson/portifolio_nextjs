@@ -26,13 +26,13 @@ export const Content = styled.section`
       font-size: 10rem;
       text-align: center;
       span {
-        color: #ff0000;
+        color: #fff569;
       }
       @media (max-width: 515px) {
         display: flex;
         flex-direction: column;
         span {
-          color: #ff0000;
+          color: #fff569;
         }
       }
     }
@@ -45,7 +45,7 @@ export const Content = styled.section`
     h1 {
       padding-top: 20px;
       font-size: 3rem;
-      color: #ff0000;
+      color: #fff569;
     }
     span {
       display: none;
@@ -62,7 +62,7 @@ export const Content = styled.section`
 
 export const Section = styled.section`
   display: flex;
-  padding: 120 0;
+  padding: 120px 0;
   flex-direction: column;
   background-color: #2c2f33;
   ol {
@@ -85,11 +85,11 @@ export const Section = styled.section`
         line-height: 2.9rem;
         text-align: justify-all;
         b {
-          color: #ff0000;
+          color: #eec643;
         }
       }
       span {
-        color: #ff0000;
+        color: #fff569;
       }
       @media (max-width: 512px) {
         flex-direction: column;
@@ -117,7 +117,7 @@ export const Section = styled.section`
 
 export const Gift = styled.section`
   display: flex;
-  padding: 120 0;
+  padding: 120px 0;
   flex-direction: column;
   background-color: #2c2f33;
   ol {
@@ -140,11 +140,11 @@ export const Gift = styled.section`
         line-height: 2.9rem;
         text-align: justify-all;
         b {
-          color: #ff0000;
+          color: #eec643;
         }
       }
       span {
-        color: #ff0000;
+        color: #fff569;
       }
       @media (max-width: 512px) {
         flex-direction: column;
