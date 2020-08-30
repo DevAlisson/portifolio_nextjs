@@ -36,6 +36,8 @@ const GiftPage = () => {
               <span className="beforeSpan">
                 👑 Seja Bem Vinda 👑{' '}
               </span>
+    
+            ( ⬐ )  LEIA MAIS ABAIXO ( ⬎ )
             </p>
           </section>
         </Content>
