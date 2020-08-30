@@ -24,15 +24,15 @@ export const Content = styled.section`
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8));
     h1 {
       font-size: 10rem;
-      text-align: start;
+      text-align: center;
       span {
-        color: #fff569;
+        color: #ff0000;
       }
       @media (max-width: 515px) {
         display: flex;
         flex-direction: column;
         span {
-          color: #fff569;
+          color: #ff0000;
         }
       }
     }
