@@ -5,8 +5,8 @@ import Layout from '~/layouts/Default';
 
 // import Slider from '~/components/Slider';
 
-// import ContactPage from '~/pages/contact';
-// import ProjectsSection from '~/pages/projects';
+import ContactPage from '~/pages/contact';
+import ProjectsSection from '~/pages/projects';
 
 import { HomeContainer, Content, Section, Player } from '~/styles/pages/gift';
 
@@ -57,10 +57,10 @@ const GiftPage = () => {
         </Section>
 
         {/* Projects SectionPage Component */}
-       // <ProjectsSection />
+       <ProjectsSection />
 
         {/* Contact SectionPage Component */}
-       // <ContactPage />
+       <ContactPage />
       </HomeContainer>
     </Layout>
   );
