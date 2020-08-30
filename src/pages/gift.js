@@ -36,8 +36,6 @@ const GiftPage = () => {
               <span className="beforeSpan">
                 👑 Seja Bem Vinda 👑{' '}
               </span>
-    
-            ( ⬐ )  LEIA MAIS ABAIXO ( ⬎ )
             </p>
           </section>
         </Content>
@@ -51,7 +49,8 @@ const GiftPage = () => {
                o banner da tela de carregamento era so pra vc ver pois eu tirei
                mais o seu presente ta no meu site é secreto pois ngm sabe
                eu ia mostrar no nosso <b>aniversario de 4 meses de amizade</b>{' '}
-                mais o coração falou mais forte.  
+               mais o coração falou mais forte.{' '}  
+                                ( ⬐ )  LEIA MAIS ABAIXO ( ⬎ )
               </p>
             </li>
           </ol>
