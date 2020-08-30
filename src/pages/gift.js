@@ -50,6 +50,15 @@ const GiftPage = () => {
                mais o seu presente ta no meu site é secreto pois ngm sabe
                eu ia mostrar no nosso <b>aniversario de 4 meses de amizade</b>{' '}
                 mais o coração falou mais forte.  
+              </p>
+            </li>
+          </ol>
+        </Section>
+    
+           <Section id="liana">
+          <ol>
+            <li>
+              <p>
                Eu sei que to aqui com vc por tudo, a gente é amigo eu sei
                so que eu quero te conhecer mais sem eu ficar pensando ela é ex do meu amigo
                eu não vou desistir pois eu gosto de você esse presente so você sabe dele
