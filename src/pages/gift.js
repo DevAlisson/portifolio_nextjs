@@ -1,7 +1,7 @@
 import React from 'react';
 import { ControlBar, PlayToggle } from 'video-react';
 
-import Layout from '~/layouts/Default';
+// import Layout from '~/layouts/Default';
 
 // import Slider from '~/components/Slider';
 
@@ -12,7 +12,7 @@ import { HomeContainer, Content, Section, Player } from '~/styles/pages/gift';
 
 const GiftPage = () => {
   return (
-    <Layout>
+    // <Layout>
       <HomeContainer>
         <Content>
           <Player
@@ -76,7 +76,7 @@ const GiftPage = () => {
         {/* Contact SectionPage Component 
        <ContactPage /> */}
       </HomeContainer>
-    </Layout>
+    // </Layout>
   );
 };
 export default GiftPage;
