@@ -9,7 +9,7 @@ import ProjectsSection from '~/pages/projects';
 
 import { HomeContainer, Content, Section } from '~/styles/pages/index';
 
-const HomePage = () => (
+const GiftPage = () => (
   <>
     <Layout>
       <HomeContainer>
@@ -64,4 +64,4 @@ const HomePage = () => (
   </>
 );
 
-export default HomePage;
+export default GiftPage;
