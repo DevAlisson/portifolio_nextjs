@@ -20,7 +20,7 @@ const GiftPage = () => {
             muted="true"
             loop="true"
             controls="false"
-            src="/static/videos/video_01.mp4"
+            src="/static/videos/video_02.mp4"
           >
             <ControlBar autoHide="false" disableDefaultControls="true">
               <PlayToggle />
@@ -57,7 +57,7 @@ const GiftPage = () => {
         </Section>
 
         {/* Projects SectionPage Component */}
-       <ProjectsSection />
+       // <ProjectsSection />
 
         {/* Contact SectionPage Component */}
        <ContactPage />
