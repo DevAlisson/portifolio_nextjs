@@ -28,6 +28,7 @@ const GiftPage = () => {
           </Player>
 
           <section>
+           <div>
          <link rel="icon" href="/static/profile/gift.ico" />
          <img src="/static/profile/gift.png" alt="logo" width="100" height="auto"/>
          <title> Liana </title>
@@ -39,6 +40,7 @@ const GiftPage = () => {
                 👑 Seja Bem Vinda 👑{' '}
               </span>
             </p>
+            </div>
           </section>
         </Content>
 
