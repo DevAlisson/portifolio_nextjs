@@ -39,9 +39,6 @@ export const Content = styled.section`
     .subtitle {
       margin-top: 10px;
       font-size: 4rem;
-     lia {
-      color: #ff0000
-      }
     }
   }
   @media (max-width: 512px) {
