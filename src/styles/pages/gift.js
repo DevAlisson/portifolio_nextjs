@@ -55,7 +55,6 @@ export const Content = styled.section`
     }
     .subtitle:after {
       font-size: 3rem;
-      color: #ff0000;
     }
   }
 `;
