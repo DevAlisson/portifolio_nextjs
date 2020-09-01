@@ -48,7 +48,7 @@ const PaiPage = () => {
                Tomara que goste do site eu fiquei um tempo fazendo é facil e dificil
                se vc olhar encima tem um Trailer de um Filme que eu coloquei mais eu consegui
                o seu presente é esse site não vou colocar muita coisa pq pode ficar muito grande
-               ai não tem como eu fazer muita coisa aqui :), Feliz Aniversario <3
+               ai não tem como eu fazer muita coisa aqui :), Feliz Aniversario
               </p>
             </li>
           </ol>
