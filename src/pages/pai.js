@@ -17,7 +17,7 @@ const PaiPage = () => {
         <Content>
           <Player
             autoPlay
-            muted="false"
+            muted="true"
             loop="true"
             controls="false"
             src="/static/videos/video_02.mp4"
