@@ -29,6 +29,7 @@ const FooterComponent = () => (
       <Navigation>
         <Link href="/404">Termos de Uso</Link>
         <Link href="https://devhijazi.tk">Gabriel Hijazi</Link>
+        <Link href="https://devalisson.tk/gift>Liana</Link>
       </Navigation>
       <Icons>
         <a
