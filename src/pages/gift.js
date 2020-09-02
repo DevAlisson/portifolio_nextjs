@@ -70,7 +70,30 @@ const GiftPage = () => {
                eu sei que somos amigo mais você tem os meus braços pra te guardar e não fique dando encima
                dos cara la pois a Soraka ela so quer saber que o Batman ta sozinho vai pra cima e ela sabe
                que vc gosta dele então a Ryuk e as meninas vão fazer vc ficar com ciumes... Te amo 
-               ( eu sei que não vai falar o mesmo :) )
+               ( eu sei que não vai falar o mesmo :) ) eu não quero ser mais um que namorou vc e te jogou
+               quando eu falo te amo é pq eu te amo eu não quero vc chorando por causa de 4 ou mais idiotas que
+               te largou vc é linda pra ta chorando por pessoas que não te deram valor eu faço de tudo pra vc 
+               gostar de mim oq eu sinto é amor de vdd não é aquele amor que vc pega e namora por 1 mes e larga
+               vc ver que eu tento te mostrar eu ja perguntei tanto pra minha vida se eu vou encontrar alguem que me ame
+               que faça oq eu fiz pras outras pessoas pra eu pegar fazer o mesmo pra ela eu todo santo dia acordo e fico
+               pensando se ela vai me amar se eu vou pro lugar que ela mora pra encontrar-la, eu te amo demais e vc não
+               ver isso as pessoas cansa de ficar batendo palmas, chorando, rindo e batendo pra vc ficar bem as pessoas
+               que vão querer vc não é por vc e sim por interesse que vai se qualquer coisa eu vou pra São Paulo e eu
+               vou ficar la e se vc for eu vou fazer questão de encontrar vc pois se uma menina linda sofre tanto ai é demais
+               eu não quero ficar pensando é so mais um amigo pra lista dela, Liana eu quero cuidar do seu coração cuidar de vc
+               mais não preparar vc pra outro cara, oq eu sinto não é amor que vc pega e joga fora tem pessoas que pede muito por
+               um coração desse e so tem coração preto vc não vai achar uma pessoa que ta tentando fazer vc feliz mesmo no choro
+               eu me quero te conhecer e não saber oq as pessoas me falam, muitas pessoas falam ela não presta, vc vai sofrer, 
+               sai dessa ilusão, para de ser cego mais eu to indo atras de vc pq eu te amo não vou ser mais um que vai atras
+               e dps fecha as portas do paraiso pra voltar, ja pensou eu to aqui indo atras e dps vc me perde... ngm quer isso e vc vai
+               ser mais uma que perdeu um coração vermelho pra poder cuidar do seu coração, vc não vai pegar e ficar pensando a ele
+               "so quer mais uma pra lista", se eu fosse querer mais uma pra lista eu ja tinha pegado qualquer uma, e vc não é uma qualquer
+               pq acha que eu quero te conhecer mais, falar com sua mãe pra conhecer-la eu quero te mostrar que num coração humano
+               pequeno é grande pra cuidar de uma pessoa, se Deus guarda tanta pessoa assim no coração pq acha que eu não conseguiria
+               eu so quero vc e sei que vc vai falar - "Alisson, a gente ja conversou", "Alisson, para." é vc acha mesmo que eu vou fazer
+               oq o Batman não fez, acha que eu vou pegar e ler a sua carta e pensar ta. Ela so vai atras e eu fico de boa, eu não vou parar
+               pq eu sei que o Batman parou e vc foi atras e se vc acha que eu vou fazer isso mesmo ta muito errada pois o meu amor por vc é de
+               verdade e não é brincadeira.
               </p>
             </li>
           </ol>
