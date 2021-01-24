@@ -29,7 +29,7 @@ const HomePage = () => (
               Allisson<span>GOD</span>
             </h1>
             <p>
-              Desenvolvedor <span>JavaScript, Java, Python!</span>
+              Desenvolvedor <span>JavaScript, Java, Python!\n\n Atualização depois das ferias!!!</span>
             </p>
           </div>
         </Content>
